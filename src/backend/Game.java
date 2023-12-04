@@ -6,7 +6,7 @@ import helper.NumberGenerator;
 
 /**
  * Game class represents the logic behind a Sliding Puzzle
- * @author Admin
+ * @author Vachia Thoj
  *
  */
 public class Game 
